@@ -5,7 +5,7 @@ import java.util.Hashtable;
 /**
  * HashDemp
  */
-public class HashDemp {
+public class HashDemo {
     public static void main(String[] args) {
         //initialize Hashtable
         Hashtable<String, String> companies = new Hashtable<String, String>();
